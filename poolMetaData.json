@@ -1,8 +1,6 @@
-cat > ${OUTPUT}/poolMetaData.json << EOF
 {
   "name": "AMAN Stake Pool",
   "description": "AMAN",
   "ticker": "AMAN",
   "homepage": "https://twitter.com/cardano_aman"
 }
-EOF
